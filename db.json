@@ -1,0 +1,38 @@
+{
+    "womens":[
+        {"id":1,"image":"https://m.media-amazon.com/images/I/81QXkj8GReS._AC_SY200_.jpg", "price":300,"name":"Harpa Women Top"},
+        {"id":2,"image":"https://m.media-amazon.com/images/I/71UZT8R+qfL._AC_SY200_.jpg", "price":400,"name":"Deewa Women's Top"},
+        {"id":3,"image":"https://m.media-amazon.com/images/I/716hIA9nyEL._AC_SY200_.jpg", "price":800,"name":"Harpa Women Checkered"},
+        {"id":4,"image":"https://m.media-amazon.com/images/I/71ArFvCHMJL._AC_SY200_.jpg", "price":900,"name":"Clothzy Women's Top"},
+        {"id":5,"image":"https://m.media-amazon.com/images/I/716hIA9nyEL._AC_SY200_.jpg", "price":800,"name":"Harpa Women Checkered"},
+        {"id":6,"image":"https://m.media-amazon.com/images/I/51SNBr22eXL._AC_SR320,400_.jpg", "price":900,"name":"Clothzy Women's Top"},
+        {"id":7,"image":"https://m.media-amazon.com/images/I/41yd9Yw15FL._AC_SR320,400_.jpg", "price":300,"name":"Harpa Women Top"},
+        {"id":8,"image":"https://m.media-amazon.com/images/I/41cQLwNv3BL._AC_SR320,400_.jpg", "price":400,"name":"Deewa Women's Top"},
+        {"id":9,"image":"https://m.media-amazon.com/images/I/51vw87SPchL._AC_SR320,400_.jpg", "price":800,"name":"Harpa Women Checkered"},
+        {"id":10,"image":"https://m.media-amazon.com/images/I/41WNPIhCYJS._AC_SR320,400_.jpg", "price":900,"name":"Clothzy Women's Top"},
+        {"id":11,"image":"https://m.media-amazon.com/images/I/4175WUwQx9L._AC_SR320,400_.jpg", "price":800,"name":"Harpa Women Checkered"},
+        {"id":12,"image":"https://m.media-amazon.com/images/I/41FYWji5mjL._AC_SR160,200_.jpg", "price":900,"name":"Clothzy Women's Top"}
+     ],
+    "mens":[
+        {"id":1,"image":"https://m.media-amazon.com/images/I/31KBDlJ6vNL._AC_SR160,200_.jpg", "price":300,"name":"Harpa Men Pant"},
+        {"id":2,"image":"https://m.media-amazon.com/images/I/310oNAFM-cL._AC_SR160,200_.jpg", "price":400,"name":"Men's  Casual Full Sleeve Pant"},
+        {"id":3,"image":"https://m.media-amazon.com/images/I/31TE8XlQ0QL._AC_SR320,400_.jpg", "price":800,"name":"Harpa Men Checkered Pant"},
+        {"id":4,"image":"https://m.media-amazon.com/images/I/31rtfeMlg9L._AC_SR320,400_.jpg", "price":900,"name":"Clothzy Men's Pant"},
+        {"id":5,"image":"https://m.media-amazon.com/images/I/41SGI4GEqcL._AC_SR320,400_.jpg", "price":800,"name":"Harpa Men Checkered Pant"},
+        {"id":6,"image":"https://m.media-amazon.com/images/I/314-+309rbL._AC_SR320,400_.jpg", "price":900,"name":"Clothzy  Men's ShirtPant"},
+        {"id":7,"image":"https://m.media-amazon.com/images/I/31onT-gQHyL._AC_SR320,400_.jpg", "price":300,"name":"Harpa  Men Shirt"},
+        {"id":8,"image":"https://m.media-amazon.com/images/I/31H-n1J-yhL._AC_SR320,400_.jpg", "price":400,"name":"Deewa  Men's Shirt"},
+        {"id":9,"image":"https://m.media-amazon.com/images/I/41CqoYc531L._AC_SR320,400_.jpg", "price":800,"name":"Harpa  Men Checkered Shirt"},
+        {"id":10,"image":"https://m.media-amazon.com/images/I/412bKK+liHL._AC_SR160,200_.jpg", "price":900,"name":"Clothzy  Men's Shirt"},
+        {"id":11,"image":"https://m.media-amazon.com/images/I/31bfb6fOPmL._AC_SR320,400_.jpg", "price":800,"name":"Harpa  Men Checkered Shirt"},
+        {"id":12,"image":"https://m.media-amazon.com/images/I/41DkvgE6XmL._AC_SR320,400_.jpg", "price":900,"name":"Clothzy  Men's Shirt"}
+],
+      "mobiles":[
+        {"id":1,"name":"https://m.media-amazon.com/images/I/91p5L+GitZL._AC_SY200_.jpg"},
+        {"id":2,"name":"https://m.media-amazon.com/images/I/61wEaWM9K1L._AC_SY200_.jpg"},
+        {"id":3,"name":"https://m.media-amazon.com/images/I/71V--WZVUIL._AC_SY200_.jpg"},
+        {"id":4,"name":"https://m.media-amazon.com/images/I/71AWvZMY6LL._AC_SY200_.jpg"},
+        {"id":5,"name":"https://m.media-amazon.com/images/I/61+Q6Rh3OQL._AC_SY200_.jpg"},
+        {"id":6,"name":"https://m.media-amazon.com/images/I/81W+d4FqbGL._AC_SY200_.jpg"}
+]
+}

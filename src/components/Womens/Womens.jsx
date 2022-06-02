@@ -21,7 +21,7 @@ useEffect(()=>
       <Grid templateColumns="repeat(4,1fr)">
       {product.map((p)=>
       (
-        <div key={p.id}>
+        <div key={p.id} gen="womens">
        <Flex direction="column" padding="10px"><Image src={`${p.image}`} height="200px" width="100px" marginLeft="100px"/><Flex direction="column" marginTop="20px"><div>{p.name}</div><div>₹{p.price}</div><Link to={`/Womens/${p.id}`}>More Details</Link></Flex></Flex>
        </div>
       ))}

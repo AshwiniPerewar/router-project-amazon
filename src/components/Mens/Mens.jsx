@@ -21,8 +21,8 @@ useEffect(()=>
       <Grid templateColumns="repeat(6,1fr)" >
       {product.map((p)=>
       (
-        <div key={p.id}>
-       <Flex direction="column" padding="10px"><Image src={`${p.image}`} height="200px" width="100%" /><Flex direction="column" marginTop="20px" marginLeft="-30px"><div>{p.name}</div><div>₹{p.price}</div><Link to={`/Womens/${p.id}`}>More Details</Link></Flex></Flex>
+        <div key={p.id} gen="mens">
+       <Flex direction="column" padding="10px"><Image src={`${p.image}`} height="200px" width="100%" /><Flex direction="column" marginTop="20px" marginLeft="-30px"><div>{p.name}</div><div>₹{p.price}</div><Link to={`/mens/${p.id}`}>More Details</Link></Flex></Flex>
        </div>
       ))}
       </Grid>
